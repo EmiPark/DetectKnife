@@ -1,0 +1,58 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Utilities.cpp
+  sc.cpp
+c:\codingworkspace\c++\detectknife\utilities\sc.h(291): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(64): warning C4101: “minDist”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(63): warning C4101: “i”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(665): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(665): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(666): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(700): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(700): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(701): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(706): warning C4101: “optSC”: 未引用的局部变量
+sc.cpp(998): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+sc.cpp(1096): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+sc.cpp(1109): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+sc.cpp(1122): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+sc.cpp(1135): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  正在生成代码...
+    正在创建库 C:\CodingWorkspace\C++\DetectKnife\x64\Debug\Utilities.lib 和对象 C:\CodingWorkspace\C++\DetectKnife\x64\Debug\Utilities.exp
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+sc.obj : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+sc.obj : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+sc.obj : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+sc.obj : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(stdthrow.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(syserror.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(_tolower.obj) : error LNK2019: 无法解析的外部符号 _wcsdup_dbg，该符号在函数 _Getctype 中被引用
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: 无法解析的外部符号 _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: 无法解析的外部符号 _realloc_dbg，该符号在函数 "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z) 中被引用
+C:\CodingWorkspace\C++\DetectKnife\x64\Debug\Utilities.dll : fatal error LNK1120: 6 个无法解析的外部命令

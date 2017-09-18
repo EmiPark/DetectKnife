@@ -1,0 +1,16 @@
+﻿  stdafx.cpp
+  deKnife.cpp
+c:\codingworkspace\c++\detectknife\deknife\sc.h(215): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(46): warning C4101: “nLast”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\deknife\sc.h(45): warning C4101: “minDist”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\deknife\sc.h(44): warning C4101: “i”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\deknife\sc.h(692): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(692): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(693): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(736): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(736): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(737): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\deknife\sc.h(753): warning C4101: “optSC”: 未引用的局部变量
+deKnife.cpp(260): warning C4101: “treatViewRs”: 未引用的局部变量
+  deKnife.vcxproj -> C:\CodingWorkspace\C++\DetectKnife\x64\Debug\deKnife.exe
+  deKnife.vcxproj -> C:\CodingWorkspace\C++\DetectKnife\x64\Debug\deKnife.pdb (Full PDB)

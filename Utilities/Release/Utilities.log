@@ -1,0 +1,293 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  sc.cpp
+c:\codingworkspace\c++\detectknife\utilities\sc.h(163): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(171): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(201): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(203): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(219): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(225): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(227): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(266): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(272): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(289): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(297): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(303): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(62): warning C4101: “minDist”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(61): warning C4101: “i”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(321): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(659): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(661): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(663): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(668): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(694): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(696): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(698): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(725): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(704): warning C4101: “optSC”: 未引用的局部变量
+sc.cpp(115): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(257): warning C4101: “cs”: 未引用的局部变量
+sc.cpp(248): warning C4101: “treatViewRs”: 未引用的局部变量
+sc.cpp(866): warning C4018: “>”: 有符号/无符号不匹配
+sc.cpp(1074): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1079): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1081): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1088): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1090): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1103): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1114): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+sc.cpp(1129): warning C4018: “<”: 有符号/无符号不匹配
+  Utilities.cpp
+opencv_core2413.lib(matrix.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(system.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(alloc.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(copy.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(convert.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(datastructs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(array.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(drawing.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(matop.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(stat.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(opencv_core_pch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(rand.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(parallel.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(gpumat.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(opengl_interop_deprecated.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(opengl_interop.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(arithm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(mathfuncs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(persistence.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(tables.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(matmul.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(lapack.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(loadsave.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(window_w32.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(window.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(opencv_highgui_pch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_bmp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_sunras.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_pxm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(utils.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(bitstrm.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_highgui2413.lib(grfmt_base.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(smooth.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(thresh.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(contours.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(imgwarp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(color.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(morph.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(rotcalipers.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(geometry.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(shapedescr.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(templmatch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(opencv_imgproc_pch.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(filter.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(utils.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(tables.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(approx.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(matchcontours.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(convhull.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(linefit.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(imgwarp_avx.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(imgwarp_avx2.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(sumpixels.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_imgproc2413.lib(moments.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(locale0.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(cerr.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(iosptrs.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(locale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(xlock.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(ios.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(xthrow.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(wlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(xlocale.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(xdateord.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(winapisupp.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(StlCompareStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(winapinls.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(StlCompareStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(StlLCMapStringW.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+libcpmt.lib(StlLCMapStringA.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+opencv_core2413.lib(dxt.obj) : error LNK2038: 检测到“RuntimeLibrary”的不匹配项: 值“MT_StaticRelease”不匹配值“MD_DynamicRelease”(sc.obj 中)
+    正在创建库 C:\CodingWorkspace\C++\DetectKnife\Release\Utilities.lib 和对象 C:\CodingWorkspace\C++\DetectKnife\Release\Utilities.exp
+LINK : warning LNK4098: 默认库“LIBCMT”与其他库的使用冲突；请使用 /NODEFAULTLIB:library
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzputs
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzgets
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzrewind
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzeof
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzclose
+opencv_core2413.lib(persistence.obj) : error LNK2001: 无法解析的外部符号 _gzopen
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__BitBlt@36
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CombineRgn@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CreateCompatibleDC@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CreateRectRgn@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__DeleteDC@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__DeleteObject@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__FillRgn@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetCurrentObject@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetStockObject@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SelectObject@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__StretchBlt@44
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetStretchBltMode@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CreateDIBSection@24
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetDIBColorTable@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetObjectA@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GdiFlush@0
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetMessageA@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__TranslateMessage@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__DispatchMessageA@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__PeekMessageA@20
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SendMessageA@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__DefWindowProcA@16
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CallWindowProcA@20
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegisterClassA@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__UnregisterClassA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__CreateWindowExA@48
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__ShowWindow@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__MoveWindow@24
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetWindowPos@28
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetFocus@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetKeyState@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetCapture@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__ReleaseCapture@0
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__BeginPaint@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__EndPaint@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__InvalidateRect@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetWindowTextA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetClientRect@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetWindowRect@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetCursor@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__ScreenToClient@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SubtractRect@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__OffsetRect@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetWindowLongA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__SetWindowLongA@12
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetClassLongA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__LoadCursorA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__LoadIconA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__MonitorFromRect@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__GetMonitorInfoA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegCloseKey@4
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegCreateKeyExA@36
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegDeleteKeyA@8
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegEnumKeyExA@32
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegOpenKeyExA@20
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegQueryValueExA@24
+opencv_highgui2413.lib(window_w32.obj) : error LNK2001: 无法解析的外部符号 __imp__RegSetValueExA@24
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_std_error
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_CreateCompress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_CreateDecompress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_destroy_compress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_destroy_decompress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_stdio_dest
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_stdio_src
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_set_defaults
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_set_quality
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_alloc_huff_table
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_start_compress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_write_scanlines
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_finish_compress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_read_header
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_start_decompress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_read_scanlines
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_finish_decompress
+opencv_highgui2413.lib(grfmt_jpeg.obj) : error LNK2001: 无法解析的外部符号 _jpeg_resync_to_restart
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFClose
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFGetField
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFScanlineSize
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFIsTiled
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFSetField
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFWriteScanline
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFReadRGBAStrip
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFReadRGBATile
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFRGBAImageOK
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFOpen
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFSetErrorHandler
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFSetWarningHandler
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFReadEncodedStrip
+opencv_highgui2413.lib(grfmt_tiff.obj) : error LNK2001: 无法解析的外部符号 _TIFFReadEncodedTile
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_create_read_struct
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_create_write_struct
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_longjmp_fn
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_create_info_struct
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_write_info
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_read_info
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_expand_gray_1_2_4_to_8
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_palette_to_rgb
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_bgr
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_gray_to_rgb
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_rgb_to_gray
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_strip_alpha
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_swap
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_packing
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_interlace_handling
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_strip_16
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_read_update_info
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_read_image
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_write_image
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_write_end
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_read_end
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_destroy_read_struct
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_destroy_write_struct
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_filter
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_compression_level
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_compression_strategy
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_init_io
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_write_fn
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_read_fn
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_get_io_ptr
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_error
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_get_IHDR
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_set_IHDR
+opencv_highgui2413.lib(grfmt_png.obj) : error LNK2001: 无法解析的外部符号 _png_get_tRNS
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_init
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_cleanup
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_stream_fopen
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_stream_close
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_cmprof_destroy
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_cmprof_createfromclrspc
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_matrix_create
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_matrix_destroy
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_create
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_destroy
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_decode
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_encode
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_readcmpt
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_writecmpt
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_getcmptbytype
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_strtofmt
+opencv_highgui2413.lib(grfmt_jpeg2000.obj) : error LNK2001: 无法解析的外部符号 _jas_image_chclrspc
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::Header::Header(int,int,float,class Imath::Vec2<float> const &,float,enum Imf::LineOrder,enum Imf::Compression)" (??0Header@Imf@@QAE@HHMABV?$Vec2@M@Imath@@MW4LineOrder@1@W4Compression@1@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::Header::~Header(void)" (??1Header@Imf@@QAE@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: class Imath::Box<class Imath::Vec2<int> > const & __thiscall Imf::Header::dataWindow(void)const " (?dataWindow@Header@Imf@@QBEABV?$Box@V?$Vec2@H@Imath@@@Imath@@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: class Imf::ChannelList & __thiscall Imf::Header::channels(void)" (?channels@Header@Imf@@QAEAAVChannelList@2@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: class Imf::ChannelList const & __thiscall Imf::Header::channels(void)const " (?channels@Header@Imf@@QBEABVChannelList@2@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::Slice::Slice(enum Imf::PixelType,char *,unsigned int,unsigned int,int,int,double,bool,bool)" (??0Slice@Imf@@QAE@W4PixelType@1@PADIIHHN_N2@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::FrameBuffer::insert(char const * const,struct Imf::Slice const &)" (?insert@FrameBuffer@Imf@@QAEXQBDABUSlice@2@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "int __cdecl Imf::globalThreadCount(void)" (?globalThreadCount@Imf@@YAHXZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::InputFile::InputFile(char const * const,int)" (??0InputFile@Imf@@QAE@QBDH@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: class Imf::Header const & __thiscall Imf::InputFile::header(void)const " (?header@InputFile@Imf@@QBEABVHeader@2@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::InputFile::setFrameBuffer(class Imf::FrameBuffer const &)" (?setFrameBuffer@InputFile@Imf@@QAEXABVFrameBuffer@2@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::InputFile::readPixels(int,int)" (?readPixels@InputFile@Imf@@QAEXHH@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::OutputFile::OutputFile(char const * const,class Imf::Header const &,int)" (??0OutputFile@Imf@@QAE@QBDABVHeader@1@H@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: virtual __thiscall Imf::OutputFile::~OutputFile(void)" (??1OutputFile@Imf@@UAE@XZ)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::OutputFile::setFrameBuffer(class Imf::FrameBuffer const &)" (?setFrameBuffer@OutputFile@Imf@@QAEXABVFrameBuffer@2@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::OutputFile::writePixels(int)" (?writePixels@OutputFile@Imf@@QAEXH@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::Channel::Channel(enum Imf::PixelType,int,int,bool)" (??0Channel@Imf@@QAE@W4PixelType@1@HH_N@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: void __thiscall Imf::ChannelList::insert(char const * const,struct Imf::Channel const &)" (?insert@ChannelList@Imf@@QAEXQBDABUChannel@2@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: struct Imf::Channel const * __thiscall Imf::ChannelList::findChannel(char const * const)const " (?findChannel@ChannelList@Imf@@QBEPBUChannel@2@QBD@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "private: static short __cdecl half::convert(int)" (?convert@half@@CAFH@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "public: __thiscall Imf::Chromaticities::Chromaticities(class Imath::Vec2<float> const &,class Imath::Vec2<float> const &,class Imath::Vec2<float> const &,class Imath::Vec2<float> const &)" (??0Chromaticities@Imf@@QAE@ABV?$Vec2@M@Imath@@000@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "bool __cdecl Imf::hasChromaticities(class Imf::Header const &)" (?hasChromaticities@Imf@@YA_NABVHeader@1@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "struct Imf::Chromaticities const & __cdecl Imf::chromaticities(class Imf::Header const &)" (?chromaticities@Imf@@YAABUChromaticities@1@ABVHeader@1@@Z)
+opencv_highgui2413.lib(grfmt_exr.obj) : error LNK2001: 无法解析的外部符号 "private: static unsigned short const * const half::_eLut" (?_eLut@half@@0QBGB)
+C:\CodingWorkspace\C++\DetectKnife\Release\Utilities.dll : fatal error LNK1120: 170 个无法解析的外部命令

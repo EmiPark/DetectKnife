@@ -1,0 +1,6 @@
+cmake_minimum_required(VERSION 2.6)
+PROJECT(DetectKnife)
+FIND_PACKAGE(OpenCV REQUIRED )
+INCLUDE_DIRECTORIES( ${OPENCV_INCLUDE_DIR} )
+ADD_EXECUTABLE(DetectKnife DetectKnife.cpp)
+TARGET_LINK_LIBRARIES(DetectKnife ${OpenCV_LIBS})

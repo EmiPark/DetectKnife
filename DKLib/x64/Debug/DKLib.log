@@ -1,0 +1,18 @@
+﻿  stdafx.cpp
+  sc.cpp
+c:\codingworkspace\c++\detectknife\dklib\sc.h(744): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(517): warning C4101: “minDist”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\dklib\sc.h(516): warning C4101: “i”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1118): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1118): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1119): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1153): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1153): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1154): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.h(1159): warning C4101: “optSC”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\dklib\sc.cpp(396): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.cpp(494): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.cpp(507): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.cpp(520): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\dklib\sc.cpp(533): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+  DKLib.vcxproj -> C:\CodingWorkspace\C++\DetectKnife\x64\Debug\DKLib.lib

@@ -1,0 +1,48 @@
+﻿  stdafx.cpp
+  dllmain.cpp
+  Utilities.cpp
+  sc.cpp
+c:\codingworkspace\c++\detectknife\utilities\sc.h(163): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(171): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(186): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(196): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(201): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(203): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(219): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(225): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(227): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(266): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(270): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(272): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(289): warning C4244: “初始化”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(297): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(303): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(62): warning C4101: “minDist”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(61): warning C4101: “i”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.h(321): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(659): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(661): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(663): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(668): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(694): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(696): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(698): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\codingworkspace\c++\detectknife\utilities\sc.h(725): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.h(704): warning C4101: “optSC”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(122): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(264): warning C4101: “cs”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(255): warning C4101: “treatViewRs”: 未引用的局部变量
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(901): warning C4018: “>”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1109): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1114): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1116): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1123): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1125): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1138): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1149): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1151): warning C4018: “<”: 有符号/无符号不匹配
+c:\codingworkspace\c++\detectknife\utilities\sc.cpp(1164): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码...
+    正在创建库 C:\CodingWorkspace\C++\DetectKnife\Debug\Utilities.lib 和对象 C:\CodingWorkspace\C++\DetectKnife\Debug\Utilities.exp
+  Utilities.vcxproj -> C:\CodingWorkspace\C++\DetectKnife\Debug\Utilities.dll
+  Utilities.vcxproj -> C:\CodingWorkspace\C++\DetectKnife\Debug\Utilities.pdb (Full PDB)

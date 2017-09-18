@@ -1,0 +1,38 @@
+﻿libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+DetectKnife.obj : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(_tolower.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _calloc_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+DetectKnife.obj : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _free_dbg
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xwcsxfrm.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+DetectKnife.obj : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(locale0.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _malloc_dbg
+libcpmtd.lib(xmbtowc.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(StlCompareStringA.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(StlLCMapStringA.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(locale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(wlocale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(xlocale.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+DetectKnife.obj : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(stdthrow.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(syserror.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(cout.obj) : error LNK2001: 无法解析的外部符号 _CrtDbgReportW
+libcpmtd.lib(_tolower.obj) : error LNK2019: 无法解析的外部符号 _wcsdup_dbg，该符号在函数 _Getctype 中被引用
+libcpmtd.lib(xstrcoll.obj) : error LNK2001: 无法解析的外部符号 _wcsdup_dbg
+libcpmtd.lib(locale.obj) : error LNK2019: 无法解析的外部符号 _realloc_dbg，该符号在函数 "private: static void __cdecl std::locale::_Locimp::_Locimp_Addfac(class std::locale::_Locimp *,class std::locale::facet *,unsigned __int64)" (?_Locimp_Addfac@_Locimp@locale@std@@CAXPEAV123@PEAVfacet@23@_K@Z) 中被引用
+opencv_world320.lib : warning LNK4272: 库计算机类型“X86”与目标计算机类型“x64”冲突
+C:\CodingWorkspace\C++\DetectKnife\x64\Debug\DetectKnife.exe : fatal error LNK1120: 6 个无法解析的外部命令
